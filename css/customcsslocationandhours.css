@@ -40,4 +40,16 @@
 }
 
 .nav li a:hover {
-	text-decoration: none;
+	text-decoration: none;}
+
+
+.map {
+	position: fixed;
+	left: 50%;
+}
+
+.map .centering {
+	position: relative;
+	left: -50%;
+}
+ul#contact {list-style-type: none;}
